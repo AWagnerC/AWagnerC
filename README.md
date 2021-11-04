@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AWagnerC
 - 👀 I’m interested in Godot engine.
-- 🌱 I’m currently learning GDScript.
+- 🌱 I’m currently learning GDScript and Python.
 
 
 <!---
